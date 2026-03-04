@@ -1,0 +1,22 @@
+{
+  "name": "Java 21 LTS — Backend Learning Guide",
+  "short_name": "Java 21 Guide",
+  "description": "Interactive Java 21 backend learning roadmap",
+  "start_url": "/java-learning-guide/",
+  "scope": "/java-learning-guide/",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/java-learning-guide/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/java-learning-guide/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
