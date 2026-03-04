@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Borde externo naranja (ligeramente más grande) -->
+  <path d="M13 8 L67 8 L87 28 L87 92 Q87 95 84 95 L16 95 Q13 95 13 92 Z" fill="#f59e0b"/>
+  <!-- Cuerpo del archivo negro -->
+  <path d="M16 11 L66 11 L84 29 L84 91 Q84 93 82 93 L18 93 Q16 93 16 91 Z" fill="#1a1a1a"/>
+  <!-- Esquina doblada naranja -->
+  <path d="M66 11 L66 29 L84 29 Z" fill="#f59e0b"/>
+  <!-- Banner naranja inferior -->
+  <rect x="16" y="67" width="68" height="26" fill="#f59e0b"/>
+  <!-- Texto JAVA -->
+  <text x="50" y="86"
+    font-family="Arial Black, sans-serif"
+    font-size="16"
+    font-weight="900"
+    fill="#000000"
+    text-anchor="middle"
+    letter-spacing="1">JAVA</text>
+</svg>
