@@ -4,7 +4,7 @@ A fully interactive landing page built with **React + Vite** that serves as a vi
 
 ## 🚀 Live Demo
 
-> Coming soon — [GitHub Pages link here]
+> [[GitHub Pages link here](https://afard-max.github.io/java-learning-guide/)]
 
 ## 📋 Overview
 
